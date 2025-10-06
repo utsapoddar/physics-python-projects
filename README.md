@@ -20,3 +20,4 @@ This repository contains a collection of Jupyter notebooks exploring classical m
 4. Run the cells sequentially to see outputs and interactive plots.
 
 These notebooks were created as part of coursework and self-study in physics. Feel free to explore, modify, and run the simulations. Contributions and suggestions are welcome.
+<!-- Minor formatting update -->
